@@ -1,0 +1,59 @@
+
+.navigation{
+height: 200px;
+width: 300px;
+float: left;
+font-size: 20px;
+text-align: left;
+color: #000000;
+background-color: #CCFFFF;
+border: 5px double #CC0000;
+
+margin-top:0px; /* верхн€€ сторона */
+margin-right:70px; /* права€ сторона */
+margin-bottom:90px; /* нижн€€ сторона */
+margin-left:120px; /* лева€ сторона */
+
+padding-top:10px; /* верхн€€ сторона */
+padding-right:2px; /* права€ сторона */
+padding-bottom:10px; /* нижн€€ сторона */
+padding-left:5px; /* лева€ сторона */
+}
+
+.head1 {
+
+height: 100px;
+font-size: 60px;
+text-align: center; 
+color: #000000;
+background-color: #FFFF99;
+border: 5px double #cc0000; /* рамка блока */
+margin-top:30px; /* верхн€€ сторона */
+margin-right:70px; /* права€ сторона */
+margin-bottom:90px; /* нижн€€ сторона */
+margin-left:120px; /* лева€ сторона */
+
+padding-top:30px; /* верхн€€ сторона */
+padding-right:70px; /* права€ сторона */
+padding-bottom:90px; /* нижн€€ сторона */
+padding-left:120px; /* лева€ сторона */
+}
+.body1 {
+
+font-size: 15px;
+text-align: left;
+color: #000000;
+background-color: #CCFFFF;
+border: 5px double #CC0000;
+
+margin-top:30px; /* верхн€€ сторона */
+margin-right:70px; /* права€ сторона */
+margin-bottom:90px; /* нижн€€ сторона */
+margin-left:120px; /* лева€ сторона */
+
+padding-top:30px; /* верхн€€ сторона */
+padding-right:70px; /* права€ сторона */
+padding-bottom:90px; /* нижн€€ сторона */
+padding-left:120px; /* лева€ сторона */
+
+}
